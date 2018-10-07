@@ -210,3 +210,8 @@ body
 h1{
     color:#4aaaa5;   
 }
+
+.img300x300{
+    width: 300px;
+    height: 300px;
+}
